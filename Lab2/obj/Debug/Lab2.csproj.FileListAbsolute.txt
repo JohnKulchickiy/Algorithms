@@ -1,0 +1,6 @@
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+I:\Work\3 grade\Крос-платформне програмування\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
